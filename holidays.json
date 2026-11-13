@@ -1,0 +1,31 @@
+{
+  "2027": {
+    "year": 2027,
+    "organization": "Bihar Engineering University (BEU)",
+    "holidays": [
+      {
+        "name": "Republic Day",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-26",
+        "type": "Official Holiday"
+      },
+      {
+        "name": "Independence Day",
+        "startDate": "2027-08-15",
+        "endDate": "2027-08-15",
+        "type": "Official Holiday"
+      },
+      {
+        "name": "Gandhi Jayanti",
+        "startDate": "2027-10-02",
+        "endDate": "2027-10-02",
+        "type": "Official Holiday"
+      }
+    ]
+  },
+  "2028": {
+    "year": 2028,
+    "organization": "Bihar Engineering University (BEU)",
+    "holidays": []
+  }
+}
